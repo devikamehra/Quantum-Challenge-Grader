@@ -23,9 +23,7 @@ from .lab3 import (
     grade_lab3_ait_ex1,
     grade_lab3_ait_ex2,
     grade_lab3_ckt_ex1,
-    grade_lab3_ckt_ex2,
-    grade_lab3_qs_ex1,
-    grade_lab3_qs_ex2,
+    grade_lab3_ckt_ex2
 )
 
 from .lab4 import (
